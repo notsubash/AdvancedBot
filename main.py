@@ -19,7 +19,7 @@ warnings.filterwarnings("ignore")
 load_dotenv()
 
 # Set up OpenAI API key
-os.environ["OPENAI_API_KEY"] = st.secrets["openai"]["api_key"]
+os.environ["OPENAI_API_KEY"] = st.secrets["openai"]["OPENAI_API_KEY"]
 
 STATIC_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static')
 os.makedirs(STATIC_DIR, exist_ok=True)
