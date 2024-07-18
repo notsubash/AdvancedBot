@@ -1,35 +1,36 @@
 [tool.poetry]
-name = "chatbot-qa"
+name = "ragbot"
 version = "0.1.0"
-description = "Chatbot application using PDF and URL to answer questions."
+description = "RAG Bot"
 authors = ["Subash Pandey <axlesubash111@gmail.com>"]
-license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.11.9"
-langchain = "^0.2.6"
-openai = "^1.35.10"
+langchain = "^0.2.8"
+openai = "^1.35.14"
 streamlit = "^1.36.0"
-chromadb = "^0.5.3"
-PyPDF2 = "^3.0.1"
-pandas = "^2.2.2"
-requests = "^2.32.3"
-beautifulsoup4 = "^4.12.3"
-pymupdf = "^1.24.7"
-fitz = "^0.0.1.dev2"
-langchain-community = "^0.2.6"
+chromadb = "^0.5.4"
 tiktoken = "^0.7.0"
-frontend = "^0.0.3"
-langchain-openai = "^0.1.14"
-protobuf = "3.20.3"
+langchain-community = "^0.2.7"
+langchain-core = "^0.2.20"
+pandas = "^2.2.2"
+pydantic = "^2.8.2"
+protobuf = "3.20.0"
+python-dotenv = "^1.0.1"
+watchdog = "^4.0.1"
+unstructured = "^0.14.10"
+markdown = "^3.6"
+tqdm = "^4.66.4"
+langchain-openai = "^0.1.16"
 uuid = "^1.30"
-faiss-cpu = "^1.8.0.post1"
-pypdf = "^4.2.0"
+lark = "^1.1.9"
+nltk = "^3.8.1"
+scikit-learn = "^1.5.1"
+pdfminer = "^20191125"
+pdfminer-six = "^20240706"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-

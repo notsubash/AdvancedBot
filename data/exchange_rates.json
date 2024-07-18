@@ -1,0 +1,149 @@
+[
+  {
+    "Currency": "US Dollar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 132.73,
+    "Buying(Note of Deno 50 and above)": 133.40,
+    "Selling/Rs.": 134.00
+  },
+  {
+    "Currency": "Euro",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 144.83,
+    "Buying(Note of Deno 50 and above)": 144.99,
+    "Selling/Rs.": 146.44
+  },
+  {
+    "Currency": "Pound Sterling",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 172.31,
+    "Buying(Note of Deno 50 and above)": 172.50,
+    "Selling/Rs.": 174.21
+  },
+  {
+    "Currency": "Swiss Franc",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 148.22,
+    "Buying(Note of Deno 50 and above)": 148.22,
+    "Selling/Rs.": 149.55
+  },
+  {
+    "Currency": "Australian Dollar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 89.84,
+    "Buying(Note of Deno 50 and above)": 89.84,
+    "Selling/Rs.": 90.73
+  },
+  {
+    "Currency": "Canadian Dollar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 97.45,
+    "Buying(Note of Deno 50 and above)": 97.45,
+    "Selling/Rs.": 98.43
+  },
+  {
+    "Currency": "Singapore Dollar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 98.68,
+    "Buying(Note of Deno 50 and above)": 98.88,
+    "Selling/Rs.": 99.82
+  },
+  {
+    "Currency": "Japanese Yen",
+    "Unit": 10,
+    "Buying(Note of Deno 50)": 8.43,
+    "Buying(Note of Deno 50 and above)": 8.43,
+    "Selling/Rs.": 8.51
+  },
+  {
+    "Currency": "Chinese Yuan",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 18.25,
+    "Buying(Note of Deno 50 and above)": 18.25,
+    "Selling/Rs.": 18.43
+  },
+  {
+    "Currency": "Hongkong Dollar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 16.94,
+    "Buying(Note of Deno 50 and above)": 16.97,
+    "Selling/Rs.": 17.10
+  },
+  {
+    "Currency": "Danish Kroner",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 19.32,
+    "Buying(Note of Deno 50 and above)": 19.36,
+    "Selling/Rs.": 19.55
+  },
+  {
+    "Currency": "Malaysian Ringgit",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 28.23,
+    "Buying(Note of Deno 50 and above)": 28.29,
+    "Selling/Rs.": 28.56
+  },
+  {
+    "Currency": "Qatari Riyal",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 36.34,
+    "Buying(Note of Deno 50 and above)": 36.38,
+    "Selling/Rs.": 36.73
+  },
+  {
+    "Currency": "Saudi Rial",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 35.23,
+    "Buying(Note of Deno 50 and above)": 35.30,
+    "Selling/Rs.": 35.65
+  },
+  {
+    "Currency": "Swedish Kroner",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 12.50,
+    "Buying(Note of Deno 50 and above)": 12.51,
+    "Selling/Rs.": 12.61
+  },
+  {
+    "Currency": "Thai Bhat",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 3.67,
+    "Buying(Note of Deno 50 and above)": 3.67,
+    "Selling/Rs.": 3.70
+  },
+  {
+    "Currency": "UAE Dirham",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 36.02,
+    "Buying(Note of Deno 50 and above)": 36.09,
+    "Selling/Rs.": 36.44
+  },
+  {
+    "Currency": "Kuwaiti Dinar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 432.13,
+    "Buying(Note of Deno 50 and above)": 434.30,
+    "Selling/Rs.": 435.97
+  },
+  {
+    "Currency": "Bahrain Dinar",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 352.12,
+    "Buying(Note of Deno 50 and above)": 352.47,
+    "Selling/Rs.": 355.43
+  },
+  {
+    "Currency": "Korean Won",
+    "Unit": 100,
+    "Buying(Note of Deno 50)": 9.57,
+    "Buying(Note of Deno 50 and above)": 9.58,
+    "Selling/Rs.": 9.66
+  },
+  {
+    "Currency": "Indian Rupees",
+    "Unit": 1,
+    "Buying(Note of Deno 50)": 1.60,
+    "Buying(Note of Deno 50 and above)": 1.60,
+    "Selling/Rs.": 1.6015
+  }
+]
