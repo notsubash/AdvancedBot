@@ -29,6 +29,7 @@ nltk = "^3.8.1"
 scikit-learn = "^1.5.1"
 pdfminer = "^20191125"
 pdfminer-six = "^20240706"
+pysqlite3-binary = {version = "^0.5.3", platform = "macosx-10.9-x86_64"}
 
 
 [build-system]
