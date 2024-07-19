@@ -1,8 +1,3 @@
-from pysqlite3 import dbapi2 as sqlite3
-import sys
-
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
-
 import streamlit as st
 import chat, collection_management, document_management
 import logging
