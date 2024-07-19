@@ -1,4 +1,4 @@
-__import__('pysqlite3')
+from pysqlite3 import dbapi2 as sqlite3
 import sys
 
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
