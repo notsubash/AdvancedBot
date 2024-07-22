@@ -5,6 +5,8 @@ import logging
 
 load_dotenv()
 
+LANGCHAIN_API_KEY = st.secrets["langchain"]["LANGCHAIN_API_KEY"]
+
 langsmith_client = Client()
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
